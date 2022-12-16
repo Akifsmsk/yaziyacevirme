@@ -1,0 +1,15 @@
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/bin/Debug/net7.0/sayıyacevirme
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/bin/Debug/net7.0/sayıyacevirme.deps.json
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/bin/Debug/net7.0/sayıyacevirme.runtimeconfig.json
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/bin/Debug/net7.0/sayıyacevirme.dll
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/bin/Debug/net7.0/sayıyacevirme.pdb
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.csproj.AssemblyReference.cache
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.AssemblyInfoInputs.cache
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.AssemblyInfo.cs
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.csproj.CoreCompileInputs.cache
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.dll
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/refint/sayıyacevirme.dll
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.pdb
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/sayıyacevirme.genruntimeconfig.cache
+/Users/akifcansimsek/Desktop/Programlama Temelleri/sayıyacevirme/sayıyacevirme/obj/Debug/net7.0/ref/sayıyacevirme.dll
